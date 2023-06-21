@@ -10,7 +10,9 @@ The project is about generative AI style transfer. Mainly, it aims to build an i
 
 
 #### Lake Portrait
+<p align="center">
 ![Lake](QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/2560x1440-best-nature-4k_1540131754.jpg) + ![Portrait](QuantArt/datasets/painter-by-numbers/train/4.jpg) = ![Lake Portrait](results/1/5_000000.png)
+</p>
 
 #### Hand Drawn Forest
 ![Forest](QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/desktop-1440x900.jpg) + ![Hand Drawn Art](QuantArt/datasets/painter-by-numbers/train/5.jpg) = ![Hand Drawn Forest](results/2/7_000000.png)
