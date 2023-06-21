@@ -6,9 +6,7 @@ The project is about generative AI style transfer. Mainly, it aims to build an i
 
 ## Examples
 #### Green Land Scape Art
-<img src="QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/download.jpg" alt="Original Green land" width="200"/>
-<img src="QuantArt/datasets/painter-by-numbers/train/1.jpg" alt="Art Style" width="200"/>
-<img src="results/0/0_000000.png" alt="Green Land Scape Art" width="200"/>
+<img src="QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/download.jpg" alt="Original Green land" width="200"/> + <img src="QuantArt/datasets/painter-by-numbers/train/1.jpg" alt="Art Style" width="200"/> = <img src="results/0/0_000000.png" alt="Green Land Scape Art" width="200"/>
 
 
 #### Lake Portrait
