@@ -5,18 +5,24 @@
 The project is about generative AI style transfer. Mainly, it aims to build an interface and UI for landscape to art style transfer using a method called QuantArt (QuantArt: Quantizing Image Style Transfer Towards High Visual Fidelity). The QuantArt model produces impressive results, particularly for landscape to art transformations, and exhibits strong generalization capabilities. The project's objective is to provide easy accessibility, allowing it to be utilized as part of other tech solutions like generating YouTube thumbnails, visuals for stories, and covers for posts. The project includes a layer built on top of the original GitHub repo, incorporating different models that utilize the QuantArt mechanism.
 
 ## Examples
+
+<p align="center">
 #### Green Land Scape Art
+
 <img src="QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/download.jpg" alt="Original Green land" width="200" height="200"/> + <img src="QuantArt/datasets/painter-by-numbers/train/1.jpg" alt="Art Style" width="200" height="200"/> = <img src="results/0/0_000000.png" alt="Green Land Scape Art" width="200" height="200"/>
 
-
+<p align="center">
 #### Lake Portrait
-<p align="center">
+
+
 <img src="QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/2560x1440-best-nature-4k_1540131754.jpg" alt="Lake" width="200" height="200"/> + <img src="QuantArt/datasets/painter-by-numbers/train/4.jpg" alt="Portrait" width="200" height="200"/> = <img src="results/1/5_000000.png" alt="Lake Portrait" width="200" height="200"/>
+</p>
 
-
-#### Hand Drawn Forest
 <p align="center">
+#### Hand Drawn Forest
+
 <img src="QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/desktop-1440x900.jpg" alt="Forest" width="200" height="200"/> + <img src="QuantArt/datasets/painter-by-numbers/train/5.jpg" alt="Hand Drawn Art" width="200" height="200"/> = <img src="results/2/7_000000.png" alt="Lake Portrait" width="200" height="200"/>
+</p>
 
 
 ## Quick Start
