@@ -11,11 +11,13 @@ The project is about generative AI style transfer. Mainly, it aims to build an i
 
 #### Lake Portrait
 <p align="center">
-![Lake](QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/2560x1440-best-nature-4k_1540131754.jpg) + ![Portrait](QuantArt/datasets/painter-by-numbers/train/4.jpg) = ![Lake Portrait](results/1/5_000000.png)
-</p>
+<img src="QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/2560x1440-best-nature-4k_1540131754.jpg" alt="Lake" width="200" height="200"/> + <img src="QuantArt/datasets/painter-by-numbers/train/4.jpg" alt="Portrait" width="200" height="200"/> = <img src="results/1/5_000000.png" alt="Lake Portrait" width="200" height="200"/>
+
 
 #### Hand Drawn Forest
-![Forest](QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/desktop-1440x900.jpg) + ![Hand Drawn Art](QuantArt/datasets/painter-by-numbers/train/5.jpg) = ![Hand Drawn Forest](results/2/7_000000.png)
+<p align="center">
+<img src="QuantArt/datasets/lhq_1024_jpg/lhq_1024_jpg/desktop-1440x900.jpg" alt="Forest" width="200" height="200"/> + <img src="QuantArt/datasets/painter-by-numbers/train/5.jpg" alt="Hand Drawn Art" width="200" height="200"/> = <img src="results/2/7_000000.png" alt="Lake Portrait" width="200" height="200"/>
+
 
 ## Quick Start
 To quickly get started with the project, follow these steps:
